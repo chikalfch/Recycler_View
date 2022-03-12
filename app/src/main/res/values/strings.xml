@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gadget List</string>
+    <string name="google_pixel_6_pro">Google Pixel 6 Pro</string>
+    <string name="todo">TODO</string>
+    <string name="nama_gadget">Nama Gadget</string>
+    <string name="gadgetme">GadgetMe</string>
+    <string name="imageLogo">imageLogo</string>
+
+    <string-array name="gadget_name">
+        <item>Google Pixel 6 Pro</item>
+        <item>Huawei Nova 9 Se</item>
+        <item>Infinix Zero 5g</item>
+        <item>Oneplus 10 Pro</item>
+        <item>Realme 9 5g</item>
+        <item>Samsung Galaxy A13 5G</item>
+        <item>Samsung Galaxy M23</item>
+        <item>Xiaomi Poco M4 Pro</item>
+        <item>Xiaomi Redmi Note 11e</item>
+    </string-array>
+    <string-array name="gadget_images">
+        <item>@drawable/google_pixel_6_pro</item>
+        <item>@drawable/huawei_nova_9_se</item>
+        <item>@drawable/infinix_zero_5g</item>
+        <item>@drawable/oneplus_10_pro</item>
+        <item>@drawable/realme_9_5g</item>
+        <item>@drawable/samsung_galaxy_a13_5g_</item>
+        <item>@drawable/samsung_galaxy_m23</item>
+        <item>@drawable/xiaomi_poco_m4_pro</item>
+        <item>@drawable/xiaomi_redmi_note_11e</item>
+    </string-array>
+</resources>
